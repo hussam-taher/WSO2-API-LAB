@@ -1,0 +1,15 @@
+{
+ "args": {},
+ "headers": {
+ "Accept": "*/*",
+ "Accept-Encoding": "gzip, deflate, br",
+ "Activityid": "e2fc83d9-b182-4f61-954f-c630c5fd313b",
+ "Connection": "Keep-Alive",
+ "Cookie": "csrftoken=LaBPnuDEspcOiVnyLBFwXD2KHZZylQqN",
+ "Host": "mock-backend:80",
+ "Postman-Token": "59ce797f-2f61-40d9-aca3-e98e0ec54324",
+ "User-Agent": "Synapse-PT-HttpComponents-NIO"
+ },
+ "origin": "172.18.0.3",
+ "url": "http://mock-backend:80/get"
+}
